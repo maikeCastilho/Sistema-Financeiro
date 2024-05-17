@@ -1,0 +1,14 @@
+C:\Users\Allcateia - Maike\source\repos\Sistema Financeiro\bin\Debug\net8.0\Sistema Financeiro.exe
+C:\Users\Allcateia - Maike\source\repos\Sistema Financeiro\bin\Debug\net8.0\Sistema Financeiro.deps.json
+C:\Users\Allcateia - Maike\source\repos\Sistema Financeiro\bin\Debug\net8.0\Sistema Financeiro.runtimeconfig.json
+C:\Users\Allcateia - Maike\source\repos\Sistema Financeiro\bin\Debug\net8.0\Sistema Financeiro.dll
+C:\Users\Allcateia - Maike\source\repos\Sistema Financeiro\bin\Debug\net8.0\Sistema Financeiro.pdb
+C:\Users\Allcateia - Maike\source\repos\Sistema Financeiro\obj\Debug\net8.0\Sistema Financeiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Allcateia - Maike\source\repos\Sistema Financeiro\obj\Debug\net8.0\Sistema Financeiro.AssemblyInfoInputs.cache
+C:\Users\Allcateia - Maike\source\repos\Sistema Financeiro\obj\Debug\net8.0\Sistema Financeiro.AssemblyInfo.cs
+C:\Users\Allcateia - Maike\source\repos\Sistema Financeiro\obj\Debug\net8.0\Sistema Financeiro.csproj.CoreCompileInputs.cache
+C:\Users\Allcateia - Maike\source\repos\Sistema Financeiro\obj\Debug\net8.0\Sistema Financeiro.dll
+C:\Users\Allcateia - Maike\source\repos\Sistema Financeiro\obj\Debug\net8.0\refint\Sistema Financeiro.dll
+C:\Users\Allcateia - Maike\source\repos\Sistema Financeiro\obj\Debug\net8.0\Sistema Financeiro.pdb
+C:\Users\Allcateia - Maike\source\repos\Sistema Financeiro\obj\Debug\net8.0\Sistema Financeiro.genruntimeconfig.cache
+C:\Users\Allcateia - Maike\source\repos\Sistema Financeiro\obj\Debug\net8.0\ref\Sistema Financeiro.dll
