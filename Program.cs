@@ -13,5 +13,4 @@ namespace Sistema_Financeiro
             Console.WriteLine(account.Balance);
         }
     }
-
 }

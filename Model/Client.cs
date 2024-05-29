@@ -28,7 +28,5 @@ namespace Sistema_Financeiro.Model
             this.id = id;
             this.name = name;
         }
-
-       
     }
 }
