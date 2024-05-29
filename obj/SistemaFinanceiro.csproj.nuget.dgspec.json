@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Allcateia - Maike\\source\\repos\\Sistema Financeiro\\SistemaFinanceiro.csproj": {}
+    "C:\\Users\\Allcateia - Maike\\source\\repos\\Sistema-Financeiro\\SistemaFinanceiro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Allcateia - Maike\\source\\repos\\Sistema Financeiro\\SistemaFinanceiro.csproj": {
+    "C:\\Users\\Allcateia - Maike\\source\\repos\\Sistema-Financeiro\\SistemaFinanceiro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Allcateia - Maike\\source\\repos\\Sistema Financeiro\\SistemaFinanceiro.csproj",
+        "projectUniqueName": "C:\\Users\\Allcateia - Maike\\source\\repos\\Sistema-Financeiro\\SistemaFinanceiro.csproj",
         "projectName": "SistemaFinanceiro",
-        "projectPath": "C:\\Users\\Allcateia - Maike\\source\\repos\\Sistema Financeiro\\SistemaFinanceiro.csproj",
+        "projectPath": "C:\\Users\\Allcateia - Maike\\source\\repos\\Sistema-Financeiro\\SistemaFinanceiro.csproj",
         "packagesPath": "C:\\Users\\Allcateia - Maike\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Allcateia - Maike\\source\\repos\\Sistema Financeiro\\obj\\",
+        "outputPath": "C:\\Users\\Allcateia - Maike\\source\\repos\\Sistema-Financeiro\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

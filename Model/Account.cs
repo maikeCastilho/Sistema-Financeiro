@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace Sistema_Financeiro.Model
 {
-    internal class Account
+    public class Account
     {
-        private long number;
-        private decimal balance;
+        public long number;
+        public decimal balance;
 
         public long Number
         {
